@@ -1,1 +1,1 @@
-# picgo_images_xh
+# blog_images
